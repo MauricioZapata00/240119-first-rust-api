@@ -1,0 +1,8 @@
+Links with information:
+- https://github.com/fairingrey/actix-realworld-example-app/
+- https://github.com/microsoft/cookiecutter-rust-actix-clean-architecture/blob/main/docs/onion-architecture-article.md
+- https://www.youtube.com/watch?v=L8tWKqSMKUI&ab_channel=CodetotheMoon
+- https://www.youtube.com/watch?v=j2dy0xb1618&ab_channel=ManningPublications
+- https://www.youtube.com/watch?v=Ziq3vu63pAU&ab_channel=BocksdinCoding
+- https://www.youtube.com/watch?v=06CVZKbNvgE&ab_channel=Let%27sGetRusty
+- https://letsgetrusty.com/bootcamp
